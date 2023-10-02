@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "WebviewAlternative",
+    theme: "WebviewAlternative",
+    sdk_version: "current",
+    product_specific: true
+}
